@@ -1,3 +1,364 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 tvg-id="AfaqTV.iq" tvg-logo="https://i.imgur.com/t7CaTu3.png" group-title="General",Afaq TV
+http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AghapyTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Religious",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlahadTV.iq" tvg-logo="https://i.imgur.com/uWibV0i.png" group-title="General",Alahad TV
+http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Al Araby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Al Araby TV 2
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlAyyamTV.iq" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ayam-tv.png" group-title="",Al Ayyam TV
+http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
+#EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="News",Al Eshraq TV
+http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
+#EXTINF:-1 tvg-id="AlEtejah.iq" tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="News",Al-Etejah
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTINF:-1 tvg-id="AlFadyTV.us" tvg-logo="https://i.imgur.com/7L0l0iY.png" group-title="Religious",Al-Fady TV
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfathAtfalTV.eg" tvg-logo="https://i.imgur.com/p82RKIq.png" group-title="Religious",Alfath Atfal TV
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+#EXTINF:-1 tvg-id="AlfathSonnahTV.eg" tvg-logo="https://i.imgur.com/7VYJStp.png" group-title="Religious",Alfath Sonnah TV
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+#EXTINF:-1 tvg-id="AlfathTV.eg" tvg-logo="https://i.imgur.com/87bdieg.png" group-title="Religious",Alfath TV
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
+#EXTINF:-1 tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="General",Al Forat TV
+http://95.216.180.111:1935/live/10/playlist.m3u8
+#EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="News",Alghadeer TV
+http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
+#EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="News",Al Ghad TV
+https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
+#EXTINF:-1 tvg-id="AlhayatTV.eg" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="General",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Religious",Al Hayat TV
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIraqia.iq" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="General",Al Iraqia
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News",Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="Religious",Al-Jawadain TV
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="News",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
+http://80.79.6.221:25461/smash/public/30
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="News",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlkafeelThewindowofAlKafeel.iq" tvg-logo="https://i.imgur.com/ZZyr80U.png" group-title="Religious",Alkafeel: The window of Al-Kafeel
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="General",Al Kahera Wal Nas
+https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-logo="https://i.imgur.com/90ykspa.png" group-title="Religious",Alkarma TV Australia
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us" tvg-logo="https://i.imgur.com/yUEuQA2.png" group-title="Religious",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us" tvg-logo="https://i.imgur.com/6OmNw5A.png" group-title="Religious",Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us" tvg-logo="https://i.imgur.com/pnm60bq.png" group-title="Religious",Alkarma TV North America & Canada
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us" tvg-logo="https://i.imgur.com/bJLKkou.png" group-title="Religious",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="Religious",Alkarma TV Talmaza Discipleship
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="Religious",Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMaarefTV.qa" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Religious",Al Maaref TV
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="",Al-Naeem TV
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+#EXTINF:-1 tvg-id="AlNahar.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="General",Al-Nahar
+https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
+#EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="News",Al-Nujaba TV
+http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="News",Al Qahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="Alquran.iq" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Alquran
+https://ktv.imamhussain.org/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="AlRabiaaTV.iq" tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="General",Al Rabiaa TV
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="AlRahma.eg" tvg-logo="https://i.imgur.com/bK9LWJp.png" group-title="Religious",Al Rahma
+https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
+#EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="General",Al Rasheed TV
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="General",Al Rayyan Old TV
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General",Al Rayyan TV
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",Amozhgary TV
+https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
+#EXTINF:-1 tvg-id="BayyinatTV.iq" tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="Religious",Bayyinat TV
+https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
+#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Religious",BeitolAbbas TV Channel
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-logo="https://i.imgur.com/JUrKfq9.png" group-title="General",Belsat TV
+https://ythls.armelin.one/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
+#EXTINF:-1 tvg-id="BTBHD.pl" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="General",BTB HD
+https://ythls.armelin.one/channel/UCNmXUDT4hoiHhtzPvCfJOeQ.m3u8
+#EXTINF:-1 tvg-id="CAFTV.eg" tvg-logo="https://i.imgur.com/zh12mNN.jpg" group-title="Sports",CAF TV
+https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC
+https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra
+https://ythls.armelin.one/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
+#EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://static.wikia.nocookie.net/haribosky/images/b/bd/Channel_8_Logo_PNG.png/revision/latest?cb=20211023173015" group-title="News",Channel8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg" tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png" group-title="Religious",Coptic TV
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DijlahTarab.iq" tvg-logo="https://i.imgur.com/UJqDWVB.png" group-title="Music",Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 tvg-id="DijlahTV.iq" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
+http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-logo="https://i.imgur.com/Tf32BJa.png" group-title="",dlaCiebie.tv
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="",Dua Channel
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="General",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Religious",EWTN Poland
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtraLive.eg" tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="News",Extra Live
+https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
+#EXTINF:-1 tvg-id="ExtraNews.eg" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News",Extra News
+https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+#EXTINF:-1 tvg-id="EzoTV.pl" tvg-logo="https://i.imgur.com/sUVgn4V.png" group-title="",Ezo TV
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 Arabic
+https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+#EXTINF:-1 tvg-id="GaliKurdistan.iq" tvg-logo="https://i.imgur.com/Jd9DywP.png" group-title="",Gali Kurdistan
+https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
+#EXTINF:-1 tvg-id="HadiTV1.iq" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV 1
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="HadiTV3.iq" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV 3
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-id="HadiTV4.iq" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV 4
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="HadiTV5.iq" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV 5
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-id="HadiTV6.iq" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV 6
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPolska.pl" tvg-logo="https://hopechannel.pl/wp-content/uploads/2017/10/HCh_logo3.png" group-title="Religious",Hope Channel Polska
+https://stream.hopechannel.pl/livetv/colombo/hope.m3u8
+#EXTINF:-1 tvg-id="HTSSlubice.pl" tvg-logo="https://i.imgur.com/tnUSXdK.png" group-title="General",HTS Slubice
+https://ythls.armelin.one/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8
+#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV1.iq" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Religious",Imam Hussein TV 1
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Religious",Imam Hussein TV 2
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV3.iq" tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="Religious",Imam Hussein TV 3
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-logo="https://i.imgur.com/0UYcylY.png" group-title="Religious",Imam Hussein TV 4
+https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV5.iq" tvg-logo="https://i.imgur.com/Oq2Ve7C.png" group-title="Religious",Imam Hussein TV 5
+https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV6.iq" tvg-logo="https://i.imgur.com/lqhU0PY.png" group-title="Religious",Imam Hussein TV 6
+https://mn-nl.mncdn.com/arbaeen/arbaeen_hd.smil/index.m3u8
+#EXTINF:-1 tvg-id="INews.iq" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",I News
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IshtarTV.iq" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="General",Ishtar TV
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="Kids",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVSerbinow.pl" tvg-logo="https://i.ibb.co/LxD181B/Logo-Kwadrat-Rewers.png" group-title="Religious",KTV Serbinow
+https://ythls.armelin.one/channel/UCcYdi3Y11OndqAYkGhLsm8A.m3u8
+#EXTINF:-1 tvg-id="KurdChannel.iq" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="",Kurd Channel
+https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdMaxShow.iq" tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="",KurdMax Show
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdMaxSorani.iq" tvg-logo="https://i.imgur.com/JkK8HG8.png" group-title="",KurdMax Sorani
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="",Kurdsat
+https://kurdsat.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Religious",Marjaeyat TV Arabic
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Religious",Marjaeyat TV English
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Religious",Marjaeyat TV Persian
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="General",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General",MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="General",MBC Iraq
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MESat.eg" tvg-logo="https://i.imgur.com/Wq7HXtR.png" group-title="Religious",MESat
+https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NRTTV.iq" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="",NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="NUBARPlusPlus.iq" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" group-title="Entertainment",NUBAR Plus +
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+#EXTINF:-1 tvg-id="NUBARtv.iq" tvg-logo="https://i.imgur.com/h4LWHr5.png" group-title="Entertainment",NUBAR tv
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
+#EXTINF:-1 tvg-id="OmgChannel.eg" tvg-logo="https://i.imgur.com/dAtTlI3.png" group-title="",Omg Channel
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="",Payam TV
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General",Qatar Television
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General",Qatar Television 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="QuranTV.iq" tvg-logo="https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg" group-title="Religious",Quran TV
+https://cdn1.karwan.tv/spi-quran/index.m3u8
+#EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="Entertainment",Radiowa Czworka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVP.pl" tvg-logo="https://i.imgur.com/slyxgyO.png" group-title="News",RTVP
+https://ythls.armelin.one/channel/UCU7uwCYami150L_lydp2OHQ.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="",Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SpedaTV.iq" tvg-logo="https://i.imgur.com/va3TVSd.jpg" group-title="",Speda TV
+https://speda.dwasat.com/upload/images/spedahd.m3u8
+#EXTINF:-1 tvg-id="SPITV.iq" tvg-logo="https://i.ibb.co/sjQMzjf/IMG-20230628-141212.jpg" group-title="",SPI TV
+https://cdn1.karwan.tv/spi-tv/index.m3u8
+#EXTINF:-1 tvg-id="SwiebodzinTV.pl" tvg-logo="https://i.imgur.com/dqyq3Le.png" group-title="General",Swiebodzin TV
+https://ythls.armelin.one/channel/UCEQZDk3FFLNM67Hx4jQaXVw.m3u8
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaGorzow.pl" tvg-logo="https://i.imgur.com/z3pmipz.png" group-title="General",Telewizja Gorzow
+https://ythls.armelin.one/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="General",Telewizja Imperium
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="General",Telewizja Jaslo
+https://cdn02.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="General",Telewizja Luban
+http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:-1 tvg-id="TelewizjaNarew.pl" tvg-logo="https://i.imgur.com/RevNbUo.png" group-title="General",Telewizja Narew
+https://ythls.armelin.one/channel/UCdBYAZdagaQcr-Fe15ifMPQ.m3u8
+#EXTINF:-1 tvg-id="TelewizjaOlsztyn.pl" tvg-logo="https://i.imgur.com/Gy3KZly.png" group-title="General",Telewizja Olsztyn
+https://ythls.armelin.one/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-logo="https://i.imgur.com/qqv9Nbj.png" group-title="",Telewizja Pogranicze Glubczyce
+https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="General",Telewizja Regionalna Zary
+https://ythls.armelin.one/channel/UC29dc_mBUWW4mz5h754v88w.m3u8
+#EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-logo="https://i.imgur.com/dejnH0O.png" group-title="General",Telewizja Relax
+https://ythls.armelin.one/channel/UCZvmZep3wknWdBPcKnwsPHA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaSudecka.pl" tvg-logo="https://i.imgur.com/F15Kl1k.png" group-title="General",Telewizja Sudecka
+https://ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-logo="https://i.imgur.com/UNwzRHN.png" group-title="",Telewizja Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 tvg-id="TelewizjaZabrze.pl" tvg-logo="https://i.imgur.com/O9eDefP.png" group-title="General",Telewizja Zabrze
+https://ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
+#EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/q0Lmqy1.png" group-title="Religious",The Kingdom Sat
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TrusoTV.pl" tvg-logo="https://i.imgur.com/GUsauxk.png" group-title="News",Truso TV
+https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="TVASTA.pl" tvg-logo="https://i.imgur.com/5g7lq9N.png" group-title="General",TV ASTA
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDami.pl" tvg-logo="https://i.imgur.com/FlEMW5F.png" group-title="General",TV Dami
+https://ythls.armelin.one/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8
+#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="",TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVMN.pl" tvg-logo="https://i.imgur.com/QjmtXxU.jpeg" group-title="News",TVMN
+https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="",TVP1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="",TVP2
+https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="",TVP 3 Bialystok
+https://cdndai.pl/tvp3bialystoksd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="",TVP 3 Bydgoszcz
+https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="",TVP 3 Gdansk
+https://cdndai.pl/tvp3gdansksd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="",TVP 3 Gorzow Wielkopolski
+https://cdndai.pl/tvp3gorzowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="",TVP 3 Katowice
+https://cdndai.pl/tvp3katowicesd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="",TVP 3 Kielce
+https://cdndai.pl/tvp3kielcesd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="",TVP 3 Krakow
+https://cdndai.pl/tvp3krakowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="",TVP 3 Lodz
+https://cdndai.pl/tvp3lodzsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="",TVP 3 Lublin
+https://cdndai.pl/tvp3lublinsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="",TVP 3 Olsztyn
+https://cdndai.pl/tvp3olsztynsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="",TVP 3 Opole
+https://cdndai.pl/tvp3opolesd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="",TVP 3 Poznan
+https://cdndai.pl/tvp3poznansd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="",TVP 3 Rzeszow
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="",TVP 3 Szczecin
+https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="",TVP 3 Warszawa
+https://cdndai.pl/tvp3warszawasd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="",TVP 3 Wroclaw
+https://cdndai.pl/tvp3wroclawsd/index.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World
+http://78.129.193.20/tsstreamer/TVP_SD.ts
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="",TV Regionalna Lubin
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="",TV Republika
+https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
+#EXTINF:-1 tvg-id="TVSlowianin.pl" tvg-logo="https://i.ibb.co/xM9nCym/logo-na-strone.png" group-title="General",TV Slowianin
+https://ythls.armelin.one/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8
+#EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-id="TVTorun.pl" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="",TV Torun
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="",TV Trwam
+https://rd.insyscd.net/trwamtv.live/live/eds/tv-trwam/dash_fta/tv-trwam.mpd
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="TVWielkopolska.pl" tvg-logo="https://i.imgur.com/uh46ZOy.png" group-title="News",TV Wielkopolska
+https://ythls.armelin.one/channel/UCVItG8Ke6xMGhQAi8HP5WCg.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="",UTV
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="",Waar TV
+https://ca-rt.onetv.app/Waar/index-0.m3u8
+#EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="General",Watan TV
+https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="",W Polsce PL
+https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
+#EXTINF:-1 tvg-id="ZachodniopomorskaTelewizja.pl" tvg-logo="https://i.imgur.com/82YYrwK.png" group-title="General",Zachodniopomorska Telewizja
+https://ythls.armelin.one/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Animation;Education;Family;Kids;Music",Zarok TV
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
