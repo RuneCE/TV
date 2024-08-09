@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="",4 Fun TV 
-https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="",4 Fun TV; https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1 tvg-id="AfaqTV.iq" tvg-logo="https://i.imgur.com/t7CaTu3.png" group-title="General",Afaq TV http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Religious",Aghapy TV https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
